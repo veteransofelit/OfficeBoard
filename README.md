@@ -2,6 +2,6 @@
 
 Aktivity kanclu Ocelářská.
 
-* [Fotosoutěž](docs/foto.md)
-* [Pěstitelský koutek](docs/micurin.md)
-* [Poplatky za sprostá slova](docs/bad_words.md)
+* [Fotosoutěž](docs/foto.md) :camera:
+* [Pěstitelský koutek](docs/micurin.md) :seedling:
+* [Poplatky za sprostá slova](docs/bad_words.md) :dollar:
