@@ -1,0 +1,4 @@
+# Pěstitelský koutek
+
+Pravidla:
+
