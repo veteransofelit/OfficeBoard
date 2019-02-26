@@ -2,9 +2,9 @@
 
 ## Pravidla
 
-* Stáří fotky ???
-* Termín odevzdání ???
-* Pravidla hlasování ???
+* Stáří fotky - aktuální fotka z daného měsíce
+* Termín odevzdání - poslední den v měsíci do 12:00 
+* Pravidla hlasování - ženy nemají žádný hlas
 
 ## Vyhlášená témata
 
