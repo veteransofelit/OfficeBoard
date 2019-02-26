@@ -21,7 +21,6 @@ B
 * běhna
 * bembeřice
 * bimbásek
-* blbka
 * blejt
 * bordel
 * bordel jak v tanku
@@ -46,7 +45,6 @@ C
 * chlívák
 * chuj
 * chujovina
-* čokoláda
 * čuba
 * čubička
 * čubka
@@ -92,7 +90,6 @@ H
 * himlsakra
 * hňup
 * homokláda
-* honek
 * honit
 * hořet koudel u prdele
 * hovado
@@ -184,13 +181,9 @@ P
 * posrat se v kině
 * prcat
 * prd
-* prdelatý
-* prdelka
 * prdíček
 * prdík
 * přefiknout
-* prkno
-* průser
 * pták
 
 Ř
