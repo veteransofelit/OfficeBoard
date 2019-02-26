@@ -8,6 +8,7 @@
 ## Zakázané slovo:
 
 * 26.2.2019 - Oběd
+* 27.2.2019 - Ahoj
 
 ## Odsouhlasená sprostá slova a výrazy:
 
