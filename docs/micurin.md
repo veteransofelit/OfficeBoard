@@ -3,5 +3,9 @@
 Pravidla: 
  * každý přinese květináče a hlínu
  * zasadí semínko
- * semínko nesmí být koupené, ale získané (nap5. z ovoce...)
+ * semínko nesmí být koupené, ale získané (např. z ovoce...)
+ 
+Termín:
+ * V průběhu března se to musí zasadit
+ 
 
