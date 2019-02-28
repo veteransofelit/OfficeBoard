@@ -24,6 +24,7 @@ B
 * běhna
 * bembeřice
 * bimbásek
+* blb, blbeček
 * blejt
 * bordel
 * bordel jak v tanku
