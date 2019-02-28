@@ -10,6 +10,7 @@
 * 26.2.2019 - Oběd
 * 27.2.2019 - Ahoj
 * 28.2.2019 - Stano
+* 01.3.2019 - Můžu, mohla .... 
 
 ## Odsouhlasená sprostá slova a výrazy:
 
