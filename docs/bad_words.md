@@ -9,6 +9,7 @@
 
 * 26.2.2019 - Oběd
 * 27.2.2019 - Ahoj
+* 28.2.2019 - Stano
 
 ## Odsouhlasená sprostá slova a výrazy:
 
