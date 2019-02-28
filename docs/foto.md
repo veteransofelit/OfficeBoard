@@ -18,5 +18,7 @@ obsadilo druhou příčku
 | Měsíc          | Téma              | Vítěz          | Fotky v soutěži |
 | -------------- | ----------------- | -------------- | ----------------|
 | Leden 2019     | Volné téma        | Martin         | [Fotky Leden](https://photos.app.goo.gl/d9fevsq2aSTjqTtv7) |
-| Únor 2019      | Železnice         |                | [Fotky Únor](https://photos.app.goo.gl/DDuN4AwvVKJLDAXG8) |
+| Únor 2019      | Železnice         |                | [Fotky Únor](https://photos.app.goo.gl/xp1hZHKBoe3JdcbA8) |
 | Březen 2019    | Praha             |                | |
+
+Celé album je [zde](https://photos.app.goo.gl/P9mFtJbWAuz4iTN77).
