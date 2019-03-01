@@ -11,6 +11,7 @@
 * 27.2.2019 - Ahoj
 * 28.2.2019 - Stano
 * 01.3.2019 - Můžu, mohla .... 
+* 04.3.2019 - Jo
 
 ## Odsouhlasená sprostá slova a výrazy:
 
