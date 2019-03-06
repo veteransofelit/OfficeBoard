@@ -12,6 +12,7 @@
 * 28.2.2019 - Stano
 * 01.3.2019 - Můžu, mohla .... 
 * 04.3.2019 - Jo
+* 07.3.2019 - Ale
 
 ## Odsouhlasená sprostá slova a výrazy:
 
