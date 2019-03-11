@@ -13,6 +13,7 @@
 * 01.3.2019 - Můžu, mohla .... 
 * 04.3.2019 - Jo
 * 07.3.2019 - Ale
+* 11.3.2019 - Jardo
 
 ## Odsouhlasená sprostá slova a výrazy:
 
