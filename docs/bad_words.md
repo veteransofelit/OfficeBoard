@@ -14,6 +14,7 @@
 * 04.3.2019 - Jo
 * 07.3.2019 - Ale
 * 11.3.2019 - Jardo
+* 12.3.2019 - Dobrý
 
 ## Odsouhlasená sprostá slova a výrazy:
 
