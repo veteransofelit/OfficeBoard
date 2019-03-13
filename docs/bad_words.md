@@ -16,6 +16,7 @@
 * 11.3.2019 - Jardo
 * 12.3.2019 - Dobrý
 * 13.3.2019 - AK
+* 14.3.2019 - Kouřit
 
 ## Odsouhlasená sprostá slova a výrazy:
 
