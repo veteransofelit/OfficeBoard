@@ -17,6 +17,7 @@
 * 12.3.2019 - Dobrý
 * 13.3.2019 - AK
 * 14.3.2019 - Kouřit
+* 15.3.2019 - Michal
 
 ## Odsouhlasená sprostá slova a výrazy:
 
