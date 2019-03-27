@@ -20,6 +20,7 @@
 * 15.3.2019 - Michal
 * 18.3.2019 - Elena
 * 21.3.2019 - Ne
+* 27.3.2019 - CRM
 
 ## Odsouhlasená sprostá slova a výrazy:
 
