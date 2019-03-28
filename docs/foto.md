@@ -3,7 +3,7 @@
 ## Pravidla
 
 * Stáří fotky - aktuální fotka z daného měsíce
-* Termín odevzdání - poslední den v měsíci do 12:00 
+* Termín odevzdání - poslední pracovní den v měsíci do 12:00 
 * Pravidla hlasování - každý, dokonce i ženy můžou ohodnotit fotku od 1 do 10 bodů. 10 bodů je maximum.
 Mějte na paměti, že tak vysoké hodnocení by měla dostat fotka, co je fakt skvělá a kvalitativně převyšuje ty ostatní. 
 Ale samozřejmě hlasujte jak chcete. 
