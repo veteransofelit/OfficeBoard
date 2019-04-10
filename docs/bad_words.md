@@ -21,6 +21,7 @@
 * 18.3.2019 - Elena
 * 21.3.2019 - Ne
 * 27.3.2019 - CRM
+* 12.4.2019 - Pivo
 
 ## Odsouhlasená sprostá slova a výrazy:
 
